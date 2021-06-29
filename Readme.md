@@ -80,3 +80,10 @@ In another gitbash terminal set up node 2.
 ./geth --datadir mycoin/node2 --port 30304 --bootnodes "enode://311948bdc4d5730c6cd6b5d3c5f98dff0cc4d88a0345034af3ef84d63e22918dce685c02e0ab4a84bc33d153850a5c4c39a8c1dad65b6a189f5143f1987c89e4@127.0.0.1:30303" --password mycoin/password2.txt --mine --ipcdisable --unlock 0xeBBf5b91FF76CFFa822Eb374d20aDecF04F2e5fD
 
 ![mine2](Image/mine2.png)
+
+## MyCrypto
+![mycrpto1](Image/mycrpto1.png)
+
+In Mycrpto, I was unable to connect to the network. And the account balance was not displayed.  
+
+
